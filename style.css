@@ -1,0 +1,203 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #F2F2F2;
+    color: rgba(25, 32, 44, 1);
+}
+ .main-container{
+    height: 800px;
+    width: 1400px;
+    background-color: #fff;
+ }
+ #head{
+     color: #fff;
+     text-align: center;
+     font-size: 80px;
+     margin-top: 0;
+ }
+ .first{
+    height: 800px;
+    width: 490px;
+    background: linear-gradient(225.63deg, #37445B -17.16%, #19202C 79.72%);
+    position: absolute;
+ }
+ .shoe{
+    height: 535px;
+    width: 623px; 
+    margin-left: 115px;
+
+ }
+ #name{
+    color: #fff;
+    text-align: center;
+ }
+
+#heading{
+    color:rgba(255, 255, 255, 1);
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+    'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+input{
+    background-color:#ECEFF2;;
+    height: 48px;
+    width: 263px;
+    border-radius: 24px;
+    border: none;
+    padding-left: 30px;
+    margin-top: 32px;
+}
+.bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.nav{
+    margin-left: 35px;
+}
+.logo{
+    margin: 15px;
+    width: 36px;
+    height: 36px;
+}
+.Main-body{
+    width: 458px;
+    height: 800px;
+    border: none;
+    margin-left: 812px;
+    justify-content: space-around;
+}
+
+#category{
+    margin-top: 36px;
+}
+#item{
+   border: none;
+   border-radius: 100px;
+}
+h1{
+   margin-top: 30px;
+   font-size: 50px;
+   color: rgba(25, 32, 44, 1);
+   font-family: 'Playfair Display';
+   font-weight:bolder;
+}
+.rating{
+color: rgba(255, 182, 50, 1);
+}
+.price{
+   display: flex;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+#rate{
+   font-size: 32px;
+   font-weight: bolder;
+}
+#strike{
+   margin-left: 30px;
+   color: #bdbaba;
+   padding-top: 27px;
+}
+#cart{
+height: 56px;
+width: 241px;
+left: 813px;
+top: 579px;
+border-radius: 100px;
+background-color: rgba(63, 136, 235, 1);
+color: #fff;
+font-size: 20px;
+border: none;
+font-weight: bold;
+display: flex;
+align-items: center;
+padding-left: 40px;
+}
+.check{
+height: 42px;
+width: 108px;
+border-radius: 21px;
+border: 1px solid rgb(214, 210, 210);
+margin-left: 15px;
+margin-right: 15px;
+
+}
+#selection{
+display: flex;
+margin: 25px;
+}
+#select{
+height: 42px;
+width: 108px;
+border-radius: 21px;
+padding-left: 25px; 
+border: none;
+font-size: 20px;
+}
+#count{
+   justify-content: center;
+   text-align: center;
+   padding-top: 6px;
+   box-sizing: border-box;
+   font-size: 25px;
+}
+#btn{
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  font-size: 30px;
+}
+#like{
+  display: flex;
+  margin-left: 32px;
+  font-size: 19px;
+  background-color: transparent;
+}
+#vote{
+margin: 15px; 
+color: rgba(63, 136, 235, 1);
+font-weight: bold;
+}
+.add{
+display: flex;
+}
+#checker{
+display: flex;
+ padding: 10px; 
+ box-sizing: border-box; 
+}
+.circle{
+border: none;
+background: transparent;
+color: transparent;
+}
+#radio{
+zoom: 0.6;
+margin-top: 0px;
+}
+#first{
+    background-color:rgba(0, 0, 0, 1);
+    margin-right: 5px; 
+    width: 120px;
+    height: 24px;
+    border-radius: 50%
+}
+#second{
+background-color:rgba(237, 237, 237, 1);
+margin-right: 5px; 
+width: 120px;
+height: 24px;
+border-radius: 50%
+}
+#third{
+background-color:rgba(122, 48, 80, 1);
+width: 120px;
+height: 24px;
+border-radius: 50%
+}
